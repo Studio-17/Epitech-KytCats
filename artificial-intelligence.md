@@ -120,3 +120,11 @@
 #### Q.30 What are Chinook & Deep Blue ?
 
 - [x] Computers playing games better than humans
+
+#### Q.31 What is an index ?
+
+- [x] A tool  for gathering data
+
+#### Q.32 AI system could help humans to make decisions because :
+
+- [x] They are good  and fast at evaluating many possibilities
