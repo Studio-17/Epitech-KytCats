@@ -128,3 +128,7 @@
 #### Q.32 AI system could help humans to make decisions because :
 
 - [x] They are good  and fast at evaluating many possibilities
+
+#### Q.33 In which domain does AI get many applpications ?
+
+- [x] All these domains
