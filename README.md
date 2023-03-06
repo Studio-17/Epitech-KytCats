@@ -33,8 +33,8 @@
         <tr>
             <td><a href="https://github.com/Studio-17/Epitech-KytCats/blob/main/artificial-intelligence.md">Artificial Intelligence</a></td>
             <td>❗needs updating</td>
-            <td>0</td>
-            <td>0</td>
+            <td>30</td>
+            <td>30</td>
         </tr>
         <tr>
             <td><a href="https://github.com/Studio-17/Epitech-KytCats/blob/main/processor-architecture.md">Processor Architecture</a></td>
